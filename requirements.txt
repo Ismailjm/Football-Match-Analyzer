@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pillow
+scikit-image
+scikit-learn
+streamlit
+cmasher
