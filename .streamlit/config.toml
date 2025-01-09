@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#A1FF2A"  # Green
+backgroundColor = "#000000"  # Black
+secondaryBackgroundColor = "#333333"  # Darker gray for contrast
+textColor = "#FFFFFF"  # White for text
+font = "inter"
